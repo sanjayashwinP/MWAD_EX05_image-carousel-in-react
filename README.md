@@ -167,7 +167,7 @@ function App() {
 export default App;
 ```
 ## OUTPUT
-<img width="951" height="606" alt="image" src="https://github.com/user-attachments/assets/4086f2e1-1b75-445f-88d7-d8b63a6dba5c" />
+<img width="964" height="625" alt="image" src="https://github.com/user-attachments/assets/994b80ec-1915-4d04-9953-e000dd588b47" />
 <img width="951" height="610" alt="image" src="https://github.com/user-attachments/assets/d1a17095-aa60-48e2-9117-36a79eadc8a7" />
 <img width="959" height="617" alt="image" src="https://github.com/user-attachments/assets/cd7a3a7c-bc0d-4b2e-b946-9261994c196d" />
 <img width="957" height="615" alt="image" src="https://github.com/user-attachments/assets/5563b679-5763-48d1-989e-aebe201bcc4b" />
